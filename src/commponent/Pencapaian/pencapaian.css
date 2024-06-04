@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.rectangle {
+  width: 430px;
+  height: 190px;
+  background-color: rgb(61, 27, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px; /* Menambahkan margin untuk jarak antar rectangle */
+  border-radius: 15px; /* Memastikan ujung rectangle tidak lancip */
+}
+
+.rectangle p {
+  text-align: center;
+  color: white; /* Ubah warna teks menjadi putih */
+  font-weight: bold;
+}
+
+.small-text {
+  font-size: 18px;
+  font-family: "Aleo";
+}
+
+.large-bold-text {
+  font-size: 34px; /* Atur ukuran teks 10.000 + sesuai kebutuhan Anda */
+  font-weight: bold;
+  font-family: "Aleo";
+}
+
+.medium-text {
+  font-size: 20px;
+  font-family: "Aleo";
+}

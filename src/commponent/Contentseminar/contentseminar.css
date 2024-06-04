@@ -1,0 +1,19 @@
+.card {
+  width: calc(20% - 10px);
+  margin: 10px;
+  font-family: "Roboto Slab", serif;
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.card-title.concert-name {
+  color: blue;
+  text-align: center;
+  font-size: 14px;
+}
+.event-name {
+  font-size: 16px;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.card {
+  width: calc(20% - 10px); /* Lebar kartu */
+  margin: 10px; /* Margin di sekitar kartu */
+  font-family: "Roboto Slab", serif;
+  font-size: 14px;
+}
+a {
+  text-decoration: none; /* Menghilangkan underline */
+  color: inherit; /* Menggunakan warna default dari parent element */
+}
+.card-title.concert {
+  color: blue;
+  text-align: center;
+  font-size: 14px; /* Mengubah warna tulisan "Concert Music" menjadi biru */
+}
+.name {
+  font-size: 16px;
+  font-weight: bold; /* Ubah ukuran font menjadi 20px */
+}
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 40px;
+}

@@ -1,0 +1,21 @@
+.custom-full-width-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.custom-image-container {
+  position: relative;
+  text-align: center;
+}
+
+.custom-centered-text {
+  position: absolute;
+  top: 30%; /* Menggeser teks sedikit lebih ke atas */
+  left: 52%;
+  transform: translate(-50%, -50%);
+  color: rgb(115, 0, 255);
+  font-size: 35px;
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+}

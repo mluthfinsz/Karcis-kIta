@@ -1,0 +1,27 @@
+h2 {
+  text-align: left !important;
+  margin-top: 20px; /* Reduced margin-top */
+  margin-bottom: 20px;
+  margin-left: 50px;
+  font-family: "Aleo", serif;
+}
+
+.card {
+  width: calc(20% - 10px); /* Lebar kartu */
+  margin: 10px; /* Margin di sekitar kartu */
+  font-family: "Roboto Slab", serif;
+  font-size: 14px;
+}
+a {
+  text-decoration: none; /* Menghilangkan underline */
+  color: inherit; /* Menggunakan warna default dari parent element */
+}
+.card-title.concert-music {
+  color: blue;
+  text-align: center;
+  font-size: 14px; /* Mengubah warna tulisan "Concert Music" menjadi biru */
+}
+.event-name {
+  font-size: 16px;
+  font-weight: bold; /* Ubah ukuran font menjadi 20px */
+}

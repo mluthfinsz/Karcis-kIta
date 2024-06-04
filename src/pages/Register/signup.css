@@ -1,0 +1,47 @@
+.custom-regis-image-container {
+  margin-right: 20px;
+}
+
+.register-image {
+  max-width: 400px;
+  margin-left: 100px;
+}
+.custom-regis-form-container {
+  max-width: 380px;
+  margin: 50px auto;
+  padding: 20px;
+  height: auto;
+  border: 3px solid #533cd3;
+  border-radius: 7px;
+  background-color: #f9f9f9;
+  flex: 1;
+}
+.custom-regis-form-container h1 {
+  margin-bottom: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #533cd3;
+  font-family: "Aleo", serif;
+  text-align: center;
+}
+.custom-button-container {
+  text-align: center;
+  margin-top: 10px;
+}
+.custom-submit-button {
+  width: 100%; /* Menetapkan lebar tombol menjadi 100% */
+}
+.register-text {
+  text-align: center; /* Memusatkan teks ke tengah */
+  margin-top: 10px;
+  font-family: "Roboto Slab", serif;
+  font-size: 12px;
+}
+
+.custom-form-control {
+  margin-top: 10px;
+  border: 1px solid #533cd3;
+  font-family: "Roboto Slab", serif;
+  font-weight: 200;
+  font-size: small;
+}

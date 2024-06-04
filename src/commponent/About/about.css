@@ -1,0 +1,12 @@
+.aboutus-text p {
+  text-align: justify;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+
+.heading-about {
+  font-family: "Aleo", serif;
+  color: blue;
+  font-size: 40px;
+  font-weight: bold;
+}
